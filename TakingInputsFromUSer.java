@@ -25,7 +25,10 @@ public class TakingInputsFromUSer {
 
         // clears input buffer
         scanner.nextLine();
+        // or
+        int age2 = Integer.parseInt(scanner.nextLine());
         System.out.println(String.format("Your name is %s and you are %d years old.", name, age));
+        System.out.println(age2);
         scanner.close();
     }
 }
