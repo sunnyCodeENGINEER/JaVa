@@ -11,3 +11,6 @@
 Learnt how to create arrays, sort arrays, compare arrays and check if an array contains a particular element.
 
 ## Studied on while loops and do while loops in Java programming.
+
+## Studied on Array lists and Hashmaps in Java programming
+Studied on hash maps and Array lists in Java programming and some basics operations that can be performed on them.
