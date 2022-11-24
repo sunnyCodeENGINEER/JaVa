@@ -14,3 +14,6 @@ Learnt how to create arrays, sort arrays, compare arrays and check if an array c
 
 ## Studied on Array lists and Hashmaps in Java programming
 Studied on hash maps and Array lists in Java programming and some basics operations that can be performed on them.
+
+## Started studying on Object Oriented Programming in Java.
+* Learnt about abstraction.
