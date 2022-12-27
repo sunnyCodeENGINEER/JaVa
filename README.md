@@ -18,5 +18,6 @@ Studied on hash maps and Array lists in Java programming and some basics operati
 ## Started studying on Object Oriented Programming in Java.
 * Learnt about abstraction.
 * Learnt about inheritance.
+* Revision on my Java skills.
 
 ## I have completed my study on the intro to Java Programming.
